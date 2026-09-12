@@ -1,17 +1,17 @@
 ### Hi there 👋
 Welcome to my GitHub!
 
-⚙️As a Mechanical Engineering Master's graduate from NOVA School of Science and Technology, I dove into the intricacies of aortic hemodynamics, exploring the impacts of endovascular prosthetics on blood flow dynamics.
+🎓 I'm a MSc Computer Engineering student at Aalborg University, specializing in AI, Vision and Sound. I originally trained as a Mechanical Engineer at NOVA School of Science and Technology and switched to software through a full-stack development bootcamp.
 
-👩‍💻 Transitioning from engineering to the tech world, I've embraced the role of a Custom Software Engineering Analyst at Accenture. Here, I've honed my coordination and implementation skills across diverse projects, sparking a profound interest in the art of coding and software development.
+👩‍💻 I've been working as a developer for a few years. At Dovento, I led a Microsoft Teams integration from scratch with REST endpoints in Node.js and Express. At Dear Dietitians, I built and maintained features for real users in SvelteKit and TypeScript, with GraphQL and AWS. Before that, I spent two years at Accenture holding end-to-end ownership of up to fifteen concurrent international client projects.
 
-📚With a relentless drive to merge analytical engineering approaches with creative software solutions, I'm currently expanding my repertoire as a Full Stack Developer student at Codemaster (boot camp). I'm actively sharpening my abilities in:
+🤖 Lately I've been focusing on agentic AI systems: LangChain/LangGraph orchestration, RAG, structured outputs with Pydantic, and guardrails. My latest group project was a Danish-learning tutor built as a cyclic LangGraph workflow with Azure OpenAI and FAISS.
 
-    - Frontend essentials: HTML, CSS, Bootstrap, and JavaScript
-    - Backend technologies: PHP, SQL, and Java
-    - Development tools: Git, GitHub
-   
-I'm passionate about creating efficient, scalable solutions that bridge the gap between technical performance and real-world applications. 
+🚀 I also work as a Community Engagement Facilitator for Viborg Municipality, where I'm developing a calendar web app for the international community.
+
+💡 I'm looking for a student job in programming where I can keep learning and take on more AI-focused work.
+
+Stack: Python · TypeScript · JavaScript · SQL | React · Node.js · SvelteKit · Tailwind | RAG · LangChain/LangGraph · Azure OpenAI | AWS · Docker · CI/CD
 <!--
 Feel free to explore my repositories and join me on this journey of continuous learning and development!"
 
